@@ -1,5 +1,7 @@
 # Interview Scheduler API
-
+API end point for scheduler. Database Setup and seeding Commands below
+ 
+ [Scheduler](https://github.com/RameesaRijas/scheduler)
 ## Setup
 
 Install dependencies with `npm install`.
